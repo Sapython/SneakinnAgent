@@ -1,0 +1,23 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="map">
+<g id="vuesax/bold/map">
+<path id="Vector" d="M7.98388 3.57005C8.15154 3.47323 8.33333 3.61436 8.33333 3.80796V17.3889C8.33333 17.6093 8.18409 17.796 7.99257 17.9051C7.98967 17.9067 7.98677 17.9084 7.98388 17.9101L5.76444 19.2501C4.21555 20.1901 2.94055 19.4101 2.94055 17.5101V7.78005C2.94055 7.15005 3.36555 6.37005 3.89444 6.05005L7.98388 3.57005V3.57005Z" fill="url(#paint0_radial_72_3180)"/>
+<path id="Vector_2" d="M14.6766 6.09959C14.8413 6.18592 14.9444 6.35649 14.9444 6.5424V19.683C14.9444 20.0565 14.5499 20.2981 14.2172 20.1284L10.2589 18.1092C10.0915 18.0238 9.98608 17.8517 9.98608 17.6638V4.46677C9.98608 4.09085 10.3854 3.84938 10.7183 4.02396L14.6766 6.09959Z" fill="url(#paint1_radial_72_3180)"/>
+<path id="Vector_3" d="M21.5556 6.48994V16.2199C21.5556 16.8499 21.1306 17.6299 20.6017 17.9499L17.3566 19.9191C17.0234 20.1213 16.5972 19.8814 16.5972 19.4917V6.32198C16.5972 6.14692 16.6888 5.98461 16.8386 5.89406L18.7317 4.74994C20.2806 3.80994 21.5556 4.58994 21.5556 6.48994Z" fill="url(#paint2_radial_72_3180)"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_72_3180" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(3.58447 3.43004) rotate(81.5318) scale(38.2603 40.4494)">
+<stop stop-color="#173967"/>
+<stop offset="1"/>
+</radialGradient>
+<radialGradient id="paint1_radial_72_3180" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(10.5781 3.64) rotate(82.4981) scale(39.6782 37.2788)">
+<stop stop-color="#173967"/>
+<stop offset="1"/>
+</radialGradient>
+<radialGradient id="paint2_radial_72_3180" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.1893 4.35143) rotate(82.114) scale(37.7569 37.2451)">
+<stop stop-color="#173967"/>
+<stop offset="1"/>
+</radialGradient>
+</defs>
+</svg>

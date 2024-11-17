@@ -1,0 +1,21 @@
+ion-header{
+    box-shadow: none;
+    // box-shadow: 0px 4px 7px 0px rgba(17, 67, 135, 0.54);
+
+    ion-toolbar{
+        --background: radial-gradient(1195.49% 255.66% at 11.94% -0.00%, #173967 0%, #000 100%);
+        text-align: center;
+
+        ion-title{
+            color: #fff;
+            margin-right: 16%;
+        }
+
+        ion-button{
+            img{
+                height: 32px;
+                width: 32px;
+            }
+        }
+    }
+}

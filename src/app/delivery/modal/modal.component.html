@@ -1,0 +1,28 @@
+<ion-modal trigger="open-cancel-modal"
+[isOpen]="isModalOpen" 
+[initialBreakpoint]="1" 
+[breakpoints]="[0, 1]">
+  <ng-template>
+    
+    <div class="cancel-block">
+      <form>
+        <h3>What is the reason for delivery cancel?</h3>
+        <input type="radio" name="option">
+        Return product for Re work <br>
+        <input type="radio" name="option">
+        Customer was unreachable <br>
+        <input type="radio" name="option">
+        Bill not settled  <br>
+        <input type="radio" name="option">
+        Other <br>
+        <textarea name="note" placeholder="add a note"></textarea>
+
+        <section>
+          <button class="dismiss" (click)="setOpen(false)">Dismiss</button>
+          <button class="cnf-cancel">Confirm Cancel</button>
+        </section>
+
+      </form>
+    </div>
+  </ng-template>
+</ion-modal>

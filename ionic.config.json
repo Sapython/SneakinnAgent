@@ -1,0 +1,7 @@
+{
+  "name": "SneakinnAgent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
